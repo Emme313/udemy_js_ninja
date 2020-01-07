@@ -4,8 +4,8 @@
 
 
 // get elements by their class name
-// const errors = document.getElementsByClassName('error');
-// console.log(errors);
+const errors = document.getElementsByClassName('error');
+console.log(errors);
 // console.log(errors[0]);
 
 // get elements by their tag name
