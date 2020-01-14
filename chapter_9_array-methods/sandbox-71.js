@@ -1,3 +1,4 @@
+// filter method
 const scores = [10, 30, 15, 25, 40, 5];
 
 // const filtered = scores.filter(score) => {
